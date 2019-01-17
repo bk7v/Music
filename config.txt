@@ -1,6 +1,6 @@
-token=NDc2MzA5MzA5NjQzMjkyNjcy.DnwirQ.QWlJkMcNGHDoMd4BHkDwBM8jtEY
-owner=194559857536270336 
-prefix=Q
-game=الــقـران الـكــريــم
+token=توكن حسابك
+owner=ايدي حسابك
+prefix=البرفكس حق البوت
+game=هلب البوت #help
 stayinchannel=true
 songinstatus=true
