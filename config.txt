@@ -1,0 +1,6 @@
+token=NDc2MzA5MzA5NjQzMjkyNjcy.DnwirQ.QWlJkMcNGHDoMd4BHkDwBM8jtEY
+owner=194559857536270336 
+prefix=Q
+game=الــقـران الـكــريــم
+stayinchannel=true
+songinstatus=true
